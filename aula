@@ -1,0 +1,15 @@
+Listas armazenam múltiplos objetos em uma única variável.
+Cada objeto tem um índice, que indica sua posição dentro da lista.
+O índice 0 refre-se ao primeiro elemento de uma lista. 
+OPERAÇÔES 
+A funçao len()informa a quantidade de objetos em uma linha
+ex:#lista-[8,"Maria",true, -5.6]#cria una lista com quatro objetos
+print(len(list()#imprime 4
+A funçao list()altera o tipo de um objeto para list e também para criar uma nova lista
+minhaLista-list((45,"olá",6.21))#Cria uma lista com três objetos
+{print (minha lista) # Impreme [45,'olá'.6.21]
+# O primeiro objeto tem como índice [0]
+Lista
+ex:minhalista " ["Taíba", "Iguape", "Peceém","cumbuco","lagoinha"," Bitupita""Paracuru","Mundaú] #Cria uma lista com oito elementos
+O código abaixo exibe os quatros primeiros objetos de minhalista:
+ex:print minhaLista[;4]) #Imprise ['Taíba',''Iguape',Pacés', 'Cumbuco'] (4 - 1)
